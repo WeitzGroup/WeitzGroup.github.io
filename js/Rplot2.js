@@ -6,7 +6,7 @@
 	    'delay': 800,
 	    'loopMode': 'loop'
 	});
-	$('#Rplot').scianimator('play');
+	$('#Rplot2').scianimator('play');
     });
 })(jQuery);
 
