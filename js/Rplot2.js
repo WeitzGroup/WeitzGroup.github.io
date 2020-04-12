@@ -4,7 +4,7 @@ function addZ(n) {
 
 (function($) {
     $(document).ready(function() {
-	var imgs = Array(39);
+	var imgs = Array(41);
 	for (i = 0; ; i++) {
         	if (i == imgs.length) break;
         	imgs[i] = "deaths/" + addZ(i + 1) + "deaths.png";
