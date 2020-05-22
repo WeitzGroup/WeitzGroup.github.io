@@ -18,3 +18,4 @@ function addZ(n) {
 	$('#Rplot3').scianimator('play');
     });
 })(jQuery);
+ 
