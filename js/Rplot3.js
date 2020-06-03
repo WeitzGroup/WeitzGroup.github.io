@@ -11,7 +11,7 @@ function addZ(n) {
       	}
 	$('#Rplot3').scianimator({
 	    'images':  imgs,
-	    'width': 500,
+	    'width': 1000,
 	    'delay': 800,
 	    'loopMode': 'loop'
 	});
